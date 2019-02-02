@@ -26,24 +26,28 @@ class NewsController extends Controller
                     'title' => '示例新闻1',
                     'author' => '作者',
                     'category' => '分类1',
+                    'detail'=>'详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情',
                     'created_at' => '2019-02-01',
                 ],
                 [
                     'title' => '示例新闻2',
                     'author' => '作者',
                     'category' => '分类1',
+                    'detail'=>'详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情',
                     'created_at' => '2019-02-01',
                 ],
                 [
                     'title' => '示例新闻3',
                     'author' => '作者',
                     'category' => '分类2',
+                    'detail'=>'详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情',
                     'created_at' => '2019-02-02',
                 ],
                 [
                     'title' => '示例新闻4',
                     'author' => '作者',
                     'category' => '分类2',
+                    'detail'=>'详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情',
                     'created_at' => '2019-02-02',
                 ],
             ]
