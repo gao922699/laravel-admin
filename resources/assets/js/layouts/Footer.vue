@@ -1,5 +1,5 @@
 <template>
-    <div class="footer">苏州闻道网络科技有限公司 © 2018-2020</div>
+    <div class="footer">XXXXXXXXXXXXX有限公司 © 2018-2020</div>
 </template>
 <style>
     .footer {

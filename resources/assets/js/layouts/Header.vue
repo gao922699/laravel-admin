@@ -1,7 +1,7 @@
 <template>
     <div class="header">
         <div class="left">
-            <h1>站群后台管理系统</h1>
+            <h1>XXX后台管理系统</h1>
         </div>
         <div class="right">
             <el-dropdown trigger="click">

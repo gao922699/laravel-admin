@@ -99687,7 +99687,7 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", { staticClass: "footer" }, [
-    _vm._v("苏州闻道网络科技有限公司 © 2018-2020")
+    _vm._v("XXXXXXXXXXXXX有限公司 © 2018-2020")
   ])
 }
 var staticRenderFns = []
@@ -100389,7 +100389,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "left" }, [
-      _c("h1", [_vm._v("站群后台管理系统")])
+      _c("h1", [_vm._v("XXX后台管理系统")])
     ])
   }
 ]
