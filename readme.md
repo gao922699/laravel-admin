@@ -1,6 +1,8 @@
 # 介绍
 一个基于element-ui的简单后台
 
+![demo](http://blog-admin.gaoqinghd.com/upload/image/20190202/1549075289300888.png)
+
 ## 使用步骤
 - php artisan migrate
 - npm install
