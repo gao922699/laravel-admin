@@ -8,6 +8,12 @@
 - npm install
 - npm run dev(watch)
 
+## 用到的组件
+- element-ui
+- axios
+- router
+- vuex
+
 后台入口：
 http://localhost/admin
 

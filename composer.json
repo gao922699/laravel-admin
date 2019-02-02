@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "gao922699/laravel-admin-element-ui",
+    "description": "A simple admin based on element-ui",
+    "keywords": ["laravel", "admin" ,"element-ui"],
     "license": "MIT",
     "type": "project",
     "require": {
