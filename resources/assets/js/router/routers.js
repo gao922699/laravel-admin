@@ -1,6 +1,6 @@
-import Login from '../views/login';
-import Main from '../layouts/main';
-import Index from '../views/index';
+import Login from '../views/Login';
+import Main from '../layouts/Main';
+import Index from '../views/Index';
 import NewsList from '../views/News/List';
 
 export default [
